@@ -11,21 +11,35 @@ This project aims to detect and track multiple persons (children and therapists)
 - `README.md`: Detailed instructions for setting up and running the project.
 
 source_code/
+
     ├── dnn_model/
+    
     │   ├── yolov4.weights (https://github.com/AlexeyAB/darknet/releases/download/yolov4/yolov4.weights)
+    
     │   ├── yolov4.cfg   (https://github.com/AlexeyAB/darknet/blob/master/cfg/yolov4.cfg)
+    
     │   └── classes.txt  (renamed coco.names file)
     |
     ├── videos.mp4(in mp4 format)
+    
     ├── tracking.py   =>Main script for running the object detection and tracking
+    
     ├── requirements.txt
+    
 		-opencv-python==4.10.0
+  
 		-numpy==1.24.3
+  
 		-scipy==1.11.2
+  
 		-scikit-learn
+  
 		-opencv-python-headless
+  
 		-yolo4
+  
 		-opencv-python numpy
+  
 
 
     └── README.md
