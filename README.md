@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Person Detection and Tracking for Autism Spectrum Disorder Analysis
 
 This project aims to detect and track multiple persons (children and therapists) in a video, assigning unique IDs, handling re-entries, post-occlusion tracking, and providing insights into behaviors, emotions, and engagement levels. The output includes annotated video frames with detected persons, along with their unique IDs and total number of persons in the video.
@@ -45,3 +46,6 @@ source_code/
    ```bash
    python -m venv venv
    source venv/bin/activate  # On Windows use `venv\Scripts\activate`
+=======
+# person_tracking
+#
