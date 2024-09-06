@@ -62,4 +62,9 @@ source_code/
    source venv/bin/activate  # On Windows use `venv\Scripts\activate`
 =======
 # person_tracking
-#
+
+
+
+yolo weights(https://github.com/AlexeyAB/darknet/releases/download/yolov4/yolov4.weights)
+
+Drive line(https://drive.google.com/drive/folders/1z9S8UUHHmQpKiQxqw5hJTOLZ14lZEovT)
