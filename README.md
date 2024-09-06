@@ -67,4 +67,4 @@ source_code/
 
 yolo weights(https://github.com/AlexeyAB/darknet/releases/download/yolov4/yolov4.weights)
 
-Drive line(https://drive.google.com/drive/folders/1z9S8UUHHmQpKiQxqw5hJTOLZ14lZEovT)
+Drive link(https://drive.google.com/drive/folders/1z9S8UUHHmQpKiQxqw5hJTOLZ14lZEovT)
