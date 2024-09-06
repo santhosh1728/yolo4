@@ -62,7 +62,9 @@ source_code/
 =======
 # person_tracking
 
+- rename the testing video file names in the tracking.py code at video path then run the terminal 
 
+--> python tracking.py
 
 yolo weights(https://github.com/AlexeyAB/darknet/releases/download/yolov4/yolov4.weights)
 
